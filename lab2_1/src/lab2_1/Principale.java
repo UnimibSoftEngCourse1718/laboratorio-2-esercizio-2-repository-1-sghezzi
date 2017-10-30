@@ -10,5 +10,9 @@ public class Principale {
 	static void primoMetodo(){
 		
 	}
+	
+	static void secondoMetodo(){
+		
+	}
 
 }
